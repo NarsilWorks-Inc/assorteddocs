@@ -168,6 +168,15 @@
         <mxCell id="wew7B_fSViKdHfvEWTY7-54" value="WF sends notifications to next sequence or rejection" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="312.5" y="470" width="215" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="wew7B_fSViKdHfvEWTY7-55" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#3399FF;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="527.5" y="380" as="sourcePoint" />
+            <mxPoint x="777.5" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wew7B_fSViKdHfvEWTY7-56" value="Notifications sent via e-mail, telegram, etc" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="537.5" y="390" width="230" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
